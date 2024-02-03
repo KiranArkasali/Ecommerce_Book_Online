@@ -24,7 +24,7 @@ In this project, I have Implemented an online book buying by using the React JS 
 2. CSS
 3. Javascript.
 
-# Framework
+# Library
 1. React JS 
 
 # ==== Software Required ====
