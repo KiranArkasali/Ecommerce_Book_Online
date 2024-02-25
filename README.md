@@ -30,7 +30,7 @@ In this project, I have Implemented an online book buying by using the React JS 
 # ==== Software Required ====
 1. Visual Studio 2022 version 17.8.3
 
-# ======== Importing and Run the project in Visual Studio ===========
+# ===Importing and Run the project in Visual Studio ===
 Step 1: Clone the link "https://github.com/KiranArkasali/Ecommerce_Book_Online.git" in the Terminal.
 
 Step 2: Go inside the vite-project directory /vite project/
